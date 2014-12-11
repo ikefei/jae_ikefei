@@ -46,11 +46,11 @@ echo '<bgsound loop="0" src="renxi.mp3" />';
                         <span class="say"> </span><br>
                         <span class="say">// You are my only girl..永远..</span><br>
 						<span class="say"> </span><br>
-                        <span class="say"><span class="space"></span> -- Cxsir--</span>
+                        <span class="say"><span class="space"></span> -- ikefei--</span>
 			        </div>
                 </div>
                 <div id="clock-box">
-                    Cxsir<span class="STYLE1">与</span> Chen<span class="STYLE1">已经相识了</span>
+                    ikefei<span class="STYLE1">与</span> Chen<span class="STYLE1">已经相识了</span>
                   <div id="clock"></div>
               </div>
                 <canvas id="canvas" width="1100" height="680"></canvas>
