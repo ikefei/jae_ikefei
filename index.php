@@ -50,7 +50,7 @@ echo '<bgsound loop="0" src="renxi.mp3" />';
 			        </div>
                 </div>
                 <div id="clock-box">
-                    ikefei<span class="STYLE1">与</span> Chen<span class="STYLE1">已经相识了</span>
+                    ikefei<span class="STYLE1">与</span> 您<span class="STYLE1">已经相识了</span>
                   <div id="clock"></div>
               </div>
                 <canvas id="canvas" width="1100" height="680"></canvas>
@@ -192,7 +192,7 @@ echo '<bgsound loop="0" src="renxi.mp3" />';
 
         var textAnimate = eval(Jscex.compile("async", function () {
 		    var together = new Date();
-		    together.setFullYear(2013, 07, -5); 			//时间年月日
+		    together.setFullYear(2013, 03, -5); 			//时间年月日
 		    together.setHours(16);						//小时	
 		    together.setMinutes(53);					//分钟
 		    together.setSeconds(0);					//秒前一位
